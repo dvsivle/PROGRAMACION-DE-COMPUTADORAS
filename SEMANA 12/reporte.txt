@@ -1,0 +1,17 @@
+pais         PBI(millones)    población       IDH      Moneda             Fecha de independencia
+====         ============     =========       ===      ======             ======================
+Perú            457964        33050325       0.759      Sol                    28/07/1821
+Chile           475320        19107216       0.847      Peso Chileno           12/02/1818
+Argentina       864887        44938712       0.830      Peso Argentino         09/07/1816
+Brasil          3316920       210147125      0.761      Real                   07/09/1822
+Colombia        771957        48258494       0.761      Peso Colombiano        20/07/1810
+Ecuador         192056        17283338       0.758      Dólar                  24/05/1822
+Bolivia         91225         11469896       0.703      Peso Boliviano         06/08/1825
+
+cantidad de países: 7
+cantidad de columnas informativas: 6
+
+Países que lograron su independencia en el mes de julio:
+Perú 
+Argentina 
+Colombia 

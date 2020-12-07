@@ -1,0 +1,24 @@
+Como puedes ver, el resultado de efectuar una lectura sobre un fichero de texto es una cadena.
+Es muy probable que buena parte de tu trabajo al programar
+se centre en la manipulacion de las cadenas leidas.
+Un ejemplo: imagina que te piden que cuentes el número de palabras de un fichero de
+texto entendiendo que uno o mas espacios separan una palabra de otra
+(no prestaremos atención a los signos de puntuación).
+El programa sera sencillo: abrir el fichero; leer
+linea a lınea y contar cuntas palabras contiene cada 
+linea; y cerrar el fichero. La
+dificultad estribara en la rutina de cálculo del numero de palabras de una lınea. Pues
+bien, recuerda que hay un metodo sobre cadenas que devuelve una lista con cada una
+de las palabras que esta contiene: split. Si usas len sobre la lista devuelta por split
+habrás contado el numero de palabras.
+Otro metodo de cadenas muy util al tratar con ficheros es strip (en inglés significa
+˂˂pelar˃˃), que devuelve una copia sin blancos
+espacios, tabuladores o saltos de linea 
+delante o detrass. Por ejemplo, el resultado de es la cadena
+'unejemplo'. Dos metodos relacionados son lstrip, que elimina los blancos de la
+izquierda (la ˂˂l˃˃ inicial es por ˂˂left˃˃),
+y rstrip, que elimina los blancos de la derecha
+(la ˂˂r˃˃ inicial es por ˂˂right˃˃).
+hola, ad
+hola asd
+asdj

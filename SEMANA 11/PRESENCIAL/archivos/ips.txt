@@ -1,0 +1,31 @@
+        LISTA DE IPS ASIGNADOS
+        ======================
+
+Escala A:
+========
+Carlos                 120.45.34.100
+Maria                  13.200.55.255
+Luis                   499.40.23.130
+Richard                43.223.189.0
+Laura                  256.656.900.23
+Pedro                  30.456.78.230
+
+
+Escala B:
+========
+Carmen                 80.0.0.0 
+Bruno                  290.180.0.0
+Braulio                18.30.187.200
+Ana                    68.0.239.55.12
+Piero                  40.78.200.167
+Zoila                  200.489.100.23
+
+
+Escala C:
+========
+Penelope               44.190.0.178
+Carla                  200.45.100.400
+Christian              34.23.167.100
+Mauricio               78.48.123.60
+Daniel                 145.890.0.34
+Tamara                 28.165.389.200

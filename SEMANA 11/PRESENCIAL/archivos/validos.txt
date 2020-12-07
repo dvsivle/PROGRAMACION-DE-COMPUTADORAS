@@ -1,0 +1,22 @@
+       LISTA DE IPS CORRECTOS
+       ======================
+
+Escala A:
+========
+Carlos                 120.45.34.100
+Maria                  13.200.55.255
+Richard                43.223.189.0
+
+
+Escala B:
+========
+Carmen                 80.0.0.0 
+Braulio                18.30.187.200
+Piero                  40.78.200.167
+
+
+Escala C:
+========
+Penelope               44.190.0.178
+Christian              34.23.167.100
+Mauricio               78.48.123.60

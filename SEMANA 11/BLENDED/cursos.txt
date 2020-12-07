@@ -1,0 +1,7 @@
+Curso       Num. Créditos      Código      cant. Matriculados    Ciclo     Horas semanales
+=====       ==============     ======      ==================    =====     ===============
+Algoritmos        4            QT-234             120              3              4
+Algebra           4            AM-123             230              1              5
+Dibujo            3            DF-178             133              1              4
+Física            5            FS-456             257              2              5
+Economía          3            EH-100             99               5              3

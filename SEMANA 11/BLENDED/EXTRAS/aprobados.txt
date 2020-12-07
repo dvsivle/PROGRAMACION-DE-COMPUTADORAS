@@ -1,0 +1,3 @@
+Luisa,Miranda,70
+JeanPaul,Muñoz,56
+Romina,Smith,97
